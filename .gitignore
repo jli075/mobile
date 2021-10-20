@@ -1,0 +1,4 @@
+# ignore generated gwt-unitCache
+gwt-unitCache/*
+war/*
+*.class

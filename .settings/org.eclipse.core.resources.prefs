@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/com/archchinese/game/client/ArchLearningGame.java=UTF-8
+encoding//src/com/archchinese/game/client/ColorPalette.java=UTF-8
+encoding//src/com/archchinese/game/client/DataService.java=UTF-8
+encoding//src/com/archchinese/game/client/PinyinMapper.java=UTF-8
+encoding//src/com/archchinese/game/client/Utils.java=UTF-8
+encoding//src/com/archchinese/game/client/VocabManager.java=UTF-8
+encoding//src/com/archchinese/game/client/js/balloonpop/balloonPop_gameScene1.js=UTF-8
+encoding//src/com/archchinese/game/client/js/jigsawpuzzle/jigsawPuzzle_gameScene1.js=UTF-8
+encoding//src/com/archchinese/game/client/js/sentenceunscrambler/sentenceUnscrambler_gameScene1.js=UTF-8
+encoding//src/com/archchinese/game/client/js/tarsiapuzzle/tarsiaPuzzle_gameScene1.js=UTF-8
+encoding//src/com/archchinese/game/client/js/wordhunter/wordHunter_gameScene1.js=UTF-8
